@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="oteope_logo.jfif" alt="Logo" width="180">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/main/oteope_logo_2.jfif" alt="Logo" width="180">
 </p>
 
-<h1 align="center">Building production-ready AI systems.</h1>
-<p align="center"><b>AI Engineer | Backend Architecture | MLOps</b></p>
+<h1 align="center">Building production-ready Machine Learning systems.</h1>
+<p align="center"><b>Machine Learning Engineer | MLOps Focus</b></p>
 
 <p align="center">
-  <a href="https://x.com/oteopeml">
+  <a href="https://x.com/TU_USUARIO_DE_X">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-  <a href="https://linkedin.com/in/oteope">
+  <a href="https://linkedin.com/in/TU_USUARIO_DE_LINKEDIN">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
