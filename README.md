@@ -6,7 +6,7 @@
 <p align="center"><b>Machine Learning Engineer | MLOps Focus</b></p>
 
 <p align="center">
-  <a href="https://x.com/TU_USUARIO_DE_X">
+  <a href="https://x.com/oteopeml">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
   <a href="https://linkedin.com/in/TU_USUARIO_DE_LINKEDIN">
