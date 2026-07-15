@@ -1,22 +1,26 @@
-<div align="center">
-  <img src="oteope_logo.jfif" alt="Logo" width="180" style="border-radius: 20px; box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);"/>
-  
-  # Building production-ready AI systems.
-  **AI Engineer | Backend Architecture | MLOps**
+<p align="center">
+  <img src="oteope_logo.jfif" alt="Logo" width="180">
+</p>
 
-  [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/TU_USUARIO)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-</div>
+<h1 align="center">Building production-ready AI systems.</h1>
+<p align="center"><b>AI Engineer | Backend Architecture | MLOps</b></p>
 
+<p align="center">
+  <a href="https://x.com/oteopeml">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="https://linkedin.com/in/oteope">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 <br/>
 
 ### ⚙️ What I'm building & exploring
-Currently deep in the AI engineering space, moving beyond simple API wrappers to build robust, stateful agentic workflows. 
+Focusing on training robust models, structuring clean data pipelines, and implementing MLOps best practices to bring models into production.
 
-- 🧠 **Agentic Architectures:** Designing DAGs and stateful graphs instead of relying on linear text streams.
-- ⚡ **Local LLMs & Inference:** Prototyping workflows offline (LM Studio, raw Python) to optimize architecture without burning API tokens.
-- 🔧 **Optimization:** Exploring model quantization, latency reduction, and production bottlenecks.
-- 🕸️ **Frameworks:** Building loops, reflection agents, and RAG pipelines using tools like **LangGraph**.
+- 🤖 **Machine Learning:** Building, training, and evaluating classical and deep learning models using PyTorch and Scikit-Learn.
+- 🚀 **MLOps & Infrastructure:** Transitioning models from notebooks to production-ready pipelines, focusing on reproducibility, deployment, and backend architecture.
+- ⚡ **Local Dev Workflow:** Utilizing local LLMs (Ollama, LM Studio) and agentic loops strictly to automate code generation, speed up debugging, and optimize my personal development.
 
 <br/>
 
